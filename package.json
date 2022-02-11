@@ -1,0 +1,9 @@
+{
+  "name": "template-repo",
+  "version": "1.0.0",
+  "description": "Template api repo",
+  "main": "index.js",
+  "repository": "https://github.com/YangJonathan/template-repo.git",
+  "author": "Jonathan Yang <jonathan.yang@stellantis.com>",
+  "license": "MIT"
+}
